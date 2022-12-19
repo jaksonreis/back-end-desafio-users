@@ -4,9 +4,9 @@
 
 Este projeto foi desenvolvido com o intuito de buscar 5 usuários da API e listar todos em ordem alfabética.
 
-Este é um desafio de back-end da Planefone.
+Este é um desafio de back-end da <b>Planefone</b>.
 
-## Introdução ao Create Vite
+## Introdução ao NestJS
 Este projeto foi inicializado com o [Nest JS](https://docs.nestjs.com/first-steps) .
 
 ## Sobre o desenvolvimento
@@ -21,7 +21,7 @@ Projeto desenvolvido para consumir a API [JSONPlaceholder](https://jsonplacehold
 
 ## Como instalar o projeto
 
-Baixe o projeto no github e use yarn install para instalar a node modules, depois da instalação use yarn start:dev.
+Baixe o projeto no github e use <b>yarn install</b> para instalar a node modules, depois da instalação use <b>yarn start:dev</b>.
 
 
 <hr>
