@@ -2,7 +2,7 @@
  
  # Desafio
 
-Este projeto foi desenvolvido com o intuito de buscar 5 usuários da API e listar todos em ordem alfabética.
+Este projeto foi desenvolvido com o intuito de buscar 5 usuários da API, tratar e listar todos em ordem alfabética.
 
 Este é um desafio de back-end da <b>Planefone</b>.
 
